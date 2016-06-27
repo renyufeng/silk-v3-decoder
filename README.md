@@ -1,4 +1,6 @@
 ## Description
+
+[![Join the chat at https://gitter.im/renyufeng/silk-v3-decoder](https://badges.gitter.im/renyufeng/silk-v3-decoder.svg)](https://gitter.im/renyufeng/silk-v3-decoder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Decode silk v3 audio files (like wechat amr files, qq slk files) and convert to other format (like mp3).
 Batch conversion support.
 
